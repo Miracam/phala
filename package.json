@@ -38,9 +38,11 @@
   },
   "dependencies": {
     "@hono/zod-validator": "^0.2.2",
+    "@peculiar/x509": "^1.12.3",
     "@phala/wapo-env": "^0.9.4",
-    "superjson": "^2.2.1",
+    "cbor": "^10.0.3",
     "hono": "4.5.6",
+    "superjson": "^2.2.1",
     "viem": "^2.19.9"
   }
 }
